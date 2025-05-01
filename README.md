@@ -10,8 +10,7 @@ This script is designed to process Landsat 8/9 Collection 2 Level 2 (L2) data to
 Works with data obtained via the Landsat Collection 2 (L2SP) service.  
 
 ## **Documentation**  
-[Landsat 8–9 Collection 2 Level 2 Product Guide]
-(https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/LSDS-1619_Landsat8-9-Collection2-Level2-Science-Product-Guide-v6.pdf)  
+[Landsat 8–9 Collection 2 Level 2 Product Guide](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/LSDS-1619_Landsat8-9-Collection2-Level2-Science-Product-Guide-v6.pdf)  
 
 
 ## **Requirements**  
@@ -45,7 +44,7 @@ Telegram: @crashkkm
 Работает с данными, полученными через сервис Landsat Collection 2 (L2SP).  
 
 ## **Документация**
-https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/LSDS-1619_Landsat8-9-Collection2-Level2-Science-Product-Guide-v6.pdf
+[Landsat 8–9 Collection 2 Level 2 Product Guide](https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-public/media/files/LSDS-1619_Landsat8-9-Collection2-Level2-Science-Product-Guide-v6.pdf)
 
 
 ## **Требования**  
@@ -60,4 +59,4 @@ https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-publ
 Среда размещена по адресу C:\Program Files\ArcGIS\Pro\bin\Python\envs\arcgispro-py3 
 
 ## **Контакт**
-Teltgram @crashkkm
+Telegram @crashkkm
