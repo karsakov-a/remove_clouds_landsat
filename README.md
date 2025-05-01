@@ -18,8 +18,10 @@ Works with data obtained via the Landsat Collection 2 (L2SP) service.
 1. **ArcGIS Pro or ArcMap** (version 10.8 or later).  
    - `arcpy` module and **Spatial Analyst** extension.  
    - License for geoprocessing tools.  
-2. **Python 3.9** (built-in with ArcGIS).  
-3. No additional dependencies or libraries required.  
+2. **Python 3.9** (built-in with ArcGIS).
+3. The Cloud Removal and Water Decryption by Landsat 8-9.atbx model is based on
+   ArcGIS Pro 3.0.1
+4. No additional dependencies or libraries required.  
 
 **Environment path**:  
 `C:\Program Files\ArcGIS\Pro\bin\Python\envs\arcgispro-py3`  
@@ -50,8 +52,10 @@ https://d9-wret.s3.us-west-2.amazonaws.com/assets/palladium/production/s3fs-publ
 1. **ArcGIS Pro или ArcMap** (версия 10.8 и выше).  
    - Модуль `arcpy` и расширение **Spatial Analyst**.  
    - Лицензия на использование геообработки.  
-2. **Python 3.9** (встроенный в ArcGIS). 
-3. Иные зависимости и библиотеки не используются.
+2. **Python 3.9** (встроенный в ArcGIS).
+3. Модель Cloud Removal and Water Decryption by Landsat 8-9.atbx сделана на базе
+   ArcGIS Pro 3.0.1
+4. Иные зависимости и библиотеки не используются.
 
 Среда размещена по адресу C:\Program Files\ArcGIS\Pro\bin\Python\envs\arcgispro-py3 
 
